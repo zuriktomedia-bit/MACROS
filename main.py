@@ -36,7 +36,7 @@ menu_pantry = [
 
 # Muestra tu logo centrado (usamos el archivo 'image_6.png' que me pasaste)
 # Asegúrate de subir 'image_6.png' a la misma carpeta en GitHub que 'main.py'
-render_logo("image_6.png", width=300)
+render_logo("LOGO_ESLOGAN_Mesa de trabajo 1 copia.png", width=300)
 
 st.title("Asistente Nutricional Inteligente")
 st.write("Configura tus metas de macros y armamos tu menú semanal con nuestros productos.")
