@@ -41,7 +41,7 @@ menu_pantry = [
 
 # --- 3. MOSTRAR LOGO ---
 # Usamos el nombre exacto de tu archivo de imagen
-render_logo("LOGO_ESLOGAN_Mesa de trabajo 1 copia.png")
+render_logo("image_6.png")
 
 st.markdown("<h1 style='text-align: center;'>Asistente Nutricional</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Selecciona tus metas y te armamos el menú ideal con los platos disponibles esta semana.</p>", unsafe_allow_html=True)
